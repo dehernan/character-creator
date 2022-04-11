@@ -1,2 +1,10 @@
 .buttonRow {
+	white-space: nowrap;
+	overflow: auto;
+	margin-left: -24px;
+	margin-right: -24px;
+	padding-left: 24px;
+	padding-right: 24px;
+	padding-top: 16px;
+	padding-bottom: 16px;
 }
